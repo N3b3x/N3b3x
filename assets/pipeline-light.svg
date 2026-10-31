@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Robot pipeline: CAD in SOLIDWORKS, sw2sim exports a joint graph, robot assets are versioned, SimPrep Studio makes them simulation-ready, ESKISTA Studio trains and deploys.">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#59636e"/></marker></defs>
+<rect width="1200" height="470" rx="14" fill="#f6f8fa"/><rect x=".5" y=".5" width="1199" height="469" rx="14" fill="none" stroke="#d0d7de"/>
+<text x="40" y="48" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">From CAD to a robot that moves</text>
+<text x="40" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">One pipeline, five stages. Each stage hands the next one a file format, not a screenshot.</text>
+<rect x="40.0" y="110" width="196.8" height="200" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5"/>
+<text x="56.0" y="138" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing=".08em" font-weight="700" fill="#59636e">CAD</text>
+<text x="56.0" y="166" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1f2328">eskista-bot</text>
+<text x="56.0" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">SOLIDWORKS assemblies of</text>
+<text x="56.0" y="216" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">the robots I design.</text>
+<line x1="239.8" y1="210" x2="267.8" y2="210" stroke="#59636e" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="270.8" y="110" width="196.8" height="200" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+<text x="286.8" y="138" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing=".08em" font-weight="700" fill="#0969da">EXPORT</text>
+<text x="286.8" y="166" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1f2328">sw2sim</text>
+<text x="286.8" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Joint graph authored in</text>
+<text x="286.8" y="216" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">CAD. Exports MuJoCo, URDF</text>
+<text x="286.8" y="236" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">and USD without dropping</text>
+<text x="286.8" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">closed loops.</text>
+<line x1="470.6" y1="210" x2="498.6" y2="210" stroke="#59636e" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="501.6" y="110" width="196.8" height="200" rx="10" fill="#ffffff" stroke="#9a6700" stroke-width="1.5"/>
+<text x="517.6" y="138" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing=".08em" font-weight="700" fill="#9a6700">ASSETS</text>
+<text x="517.6" y="166" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1f2328">nebs-robot-assets</text>
+<text x="517.6" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Robots as versioned</text>
+<text x="517.6" y="216" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">packages, pinned in the</text>
+<text x="517.6" y="236" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">studio as a submodule.</text>
+<line x1="701.4000000000001" y1="210" x2="729.4000000000001" y2="210" stroke="#59636e" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="732.4000000000001" y="110" width="196.8" height="200" rx="10" fill="#ffffff" stroke="#bf3989" stroke-width="1.5"/>
+<text x="748.4000000000001" y="138" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing=".08em" font-weight="700" fill="#bf3989">PREPARE</text>
+<text x="748.4000000000001" y="166" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1f2328">SimPrep Studio</text>
+<text x="748.4000000000001" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Clearances, collision,</text>
+<text x="748.4000000000001" y="216" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">motors and joint limits,</text>
+<text x="748.4000000000001" y="236" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">in a browser, on my</text>
+<text x="748.4000000000001" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">machine.</text>
+<line x1="932.2" y1="210" x2="960.2" y2="210" stroke="#59636e" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="963.2" y="110" width="196.8" height="200" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="979.2" y="138" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing=".08em" font-weight="700" fill="#1a7f37">TRAIN + RUN</text>
+<text x="979.2" y="166" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1f2328">ESKISTA Studio</text>
+<text x="979.2" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Visualize, capture motion,</text>
+<text x="979.2" y="216" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">train policies in MuJoCo</text>
+<text x="979.2" y="236" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">or Isaac Lab, drive</text>
+<text x="979.2" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">hardware.</text>
+<rect x="40" y="370" width="1120" height="70" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+<text x="60" y="398" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1f2328">Why it is built this way</text>
+<text x="60" y="420" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Simulation is only useful if the model keeps every hinge and every mass. A tree flattened too early loses a four-bar linkage, so the graph stays the source of truth.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Three tracks of work: HardFOC hardware and firmware, robots and simulation, and embedded Linux.">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#59636e"/></marker></defs>
+<rect width="1200" height="380" rx="14" fill="#f6f8fa"/><rect x=".5" y=".5" width="1199" height="379" rx="14" fill="none" stroke="#d0d7de"/>
+<text x="40" y="48" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">What I work on</text>
+<text x="40" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">Three connected tracks. The first is open source, the other two are mostly private and shown here in outline.</text>
+<rect x="40" y="100" width="360" height="250" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+<text x="60" y="130" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing=".08em" font-weight="700" fill="#0969da">HARDFOC</text>
+<text x="60" y="160" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1f2328">Hardware and firmware</text>
+<circle cx="66" cy="192" r="3.5" fill="#0969da"/>
+<text x="80" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Hardware-agnostic C++ drivers</text>
+<circle cx="66" cy="222" r="3.5" fill="#0969da"/>
+<text x="80" y="226" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Board HAL and platform layer</text>
+<circle cx="66" cy="252" r="3.5" fill="#0969da"/>
+<text x="80" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Motor control (FOC) boards</text>
+<circle cx="66" cy="282" r="3.5" fill="#0969da"/>
+<text x="80" y="286" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Shared CI and docs sites</text>
+<line x1="60" y1="312" x2="380" y2="312" stroke="#d0d7de"/>
+<text x="60" y="335" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" font-weight="400" fill="#59636e">Open source · 40+ repositories</text>
+<rect x="430" y="100" width="360" height="250" rx="10" fill="#ffffff" stroke="#bf3989" stroke-width="1.5"/>
+<text x="450" y="130" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing=".08em" font-weight="700" fill="#bf3989">ROBOTS AND SIMULATION</text>
+<text x="450" y="160" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1f2328">From CAD to a trained policy</text>
+<circle cx="456" cy="192" r="3.5" fill="#bf3989"/>
+<text x="470" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Custom robots, designed in SOLIDWORKS</text>
+<circle cx="456" cy="222" r="3.5" fill="#bf3989"/>
+<text x="470" y="226" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">CAD to simulation export</text>
+<circle cx="456" cy="252" r="3.5" fill="#bf3989"/>
+<text x="470" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Simulation-ready preparation</text>
+<circle cx="456" cy="282" r="3.5" fill="#bf3989"/>
+<text x="470" y="286" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Motion capture, training, deployment</text>
+<line x1="450" y1="312" x2="770" y2="312" stroke="#d0d7de"/>
+<text x="450" y="335" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" font-weight="400" fill="#59636e">In development · mostly private</text>
+<rect x="820" y="100" width="360" height="250" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="840" y="130" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing=".08em" font-weight="700" fill="#1a7f37">EMBEDDED LINUX</text>
+<text x="840" y="160" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1f2328">Boards, boot and platforms</text>
+<circle cx="846" cy="192" r="3.5" fill="#1a7f37"/>
+<text x="860" y="196" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Whole stack built from source</text>
+<circle cx="846" cy="222" r="3.5" fill="#1a7f37"/>
+<text x="860" y="226" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Boot chain, root filesystem, images</text>
+<circle cx="846" cy="252" r="3.5" fill="#1a7f37"/>
+<text x="860" y="256" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Worked examples on real boards</text>
+<circle cx="846" cy="282" r="3.5" fill="#1a7f37"/>
+<text x="860" y="286" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#1f2328">Teaching material and docs</text>
+<line x1="840" y1="312" x2="1160" y2="312" stroke="#d0d7de"/>
+<text x="840" y="335" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" font-weight="400" fill="#59636e">Public primer</text>
+</svg>
