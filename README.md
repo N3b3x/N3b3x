@@ -3,8 +3,11 @@
   <img src="assets/banner-light.svg" alt="Nebiyu Tadesse. Embedded systems, motor control and robotics." width="100%">
 </picture>
 
-I'm a mechanical and electrical and computer engineer, a University of Colorado Boulder alum, and I build the layer where
-software meets hardware: motor controllers, sensors, embedded Linux, and the robots that use them.
+I build robots and the embedded systems inside them. I hold two bachelor's degrees from the University of Colorado Boulder,
+in mechanical engineering and in electrical and computer engineering, and a master's degree from Johns Hopkins University in
+robotics and autonomous systems. That mix lets me work across the whole machine: the mechanism, the electronics, the firmware,
+and the simulation that proves it before anything is built.
+
 I like systems that are portable, testable and documented well enough that someone else can pick them up.
 
 <p align="center">
